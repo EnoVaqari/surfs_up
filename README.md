@@ -5,7 +5,11 @@ The purpose of this analysis is to view the weather statistic to determine wheth
 
 ## Results
 W. Avy, the investor was specifically interested in the data that shows temperatures for June and December, so I provided two summary statistics for those months. Below are the summary statistics for June and December temperatures.
-(JUNE)(DECEMBER)
+
+![](https://github.com/EnoVaqari/surfs_up/blob/main/PNGs/June_temps.png)
+
+![](https://github.com/EnoVaqari/surfs_up/blob/main/PNGs/December_temps.png)
+
 
 From this statistics we can see that:
 
@@ -15,7 +19,11 @@ From this statistics we can see that:
 
 ## Summary
 By analyzing the above statistics, we determined that the temperatures in June and December are fairly static. There are also two additional queries about the percipitation in December and June.
-(percD)(percJUne)
+
+![](https://github.com/EnoVaqari/surfs_up/blob/main/PNGs/juneprecip.png)
+
+![](https://github.com/EnoVaqari/surfs_up/blob/main/PNGs/decPrecip.png)
+
 
  By looking at the statistics for temperature and percipitation, we can recommend to W. Avy that Ohau is a good location for his investment.
 
